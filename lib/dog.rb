@@ -23,7 +23,7 @@ class Dog
     end 
     
     def save
-      dog.save
+      save
     end 
     
 end 
